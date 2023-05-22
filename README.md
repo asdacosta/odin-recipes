@@ -1,6 +1,6 @@
 # Odin-recipes
 
-## Project 
+## Project Origin
 The Odin Project
 
 ## Project Objective
