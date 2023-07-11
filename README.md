@@ -26,6 +26,8 @@ The following are the web pages.
 | `shawarma.html` | Next sub recipe page located in the `recipes` directory. |
 | `samosa.html` | Last recipe page also located in the `recipes` directory. |
 
+[Recipes Website](https://asdacosta.github.io/odin-recipes/)
+
 ## Curator & Contributor
 * Abraham Da Costa Silvanus - https://github.com/asdacosta
 * Mail - asdacosta18@gmail.com
